@@ -20,7 +20,7 @@ authors:
     affiliation: "University of Wuppertal"
 version: "1.0.0"
 license: MIT
-repository-code: "https://github.com/XXXX/extended-state-space-ph"
+repository-code: "https://github.com/KevinSchaefers/extended-state-space-ph"
 keywords:
   - splitting methods
   - extended state space methods
