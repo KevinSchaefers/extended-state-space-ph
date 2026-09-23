@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper."
+title: "Energy-consistent extended state space methods for port-Hamiltonian ODEs"
+abstract: >-
+  Reference implementation of the numerical experiments in the paper
+  "Energy-Consistent Splitting Methods for Port-Hamiltonian ODEs via a
+  Generalized Extended State Space Approach".
+type: software
+authors:
+  - family-names: "Schäfers"
+    given-names: "Kevin"
+    orcid: "https://orcid.org/0000-0002-6502-8106"
+    affiliation: "University of Wuppertal"
+  - family-names: "Bartel"
+    given-names: "Andreas"
+    orcid: "https://orcid.org/0000-0003-1979-179X"
+    affiliation: "University of Wuppertal"
+  - family-names: "Günther"
+    given-names: "Michael"
+    affiliation: "University of Wuppertal"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/XXXX/extended-state-space-ph"
+keywords:
+  - splitting methods
+  - extended state space methods
+  - energy-consistent time integration
+  - port-Hamiltonian systems
+preferred-citation:
+  type: article
+  title: >-
+    Energy-Consistent Splitting Methods for Port-Hamiltonian ODEs via a
+    Generalized Extended State Space Approach
+  authors:
+    - family-names: "Schäfers"
+      given-names: "Kevin"
+    - family-names: "Bartel"
+      given-names: "Andreas"
+    - family-names: "Günther"
+      given-names: "Michael"
+  year: 2026
