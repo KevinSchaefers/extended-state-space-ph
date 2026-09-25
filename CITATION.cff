@@ -11,13 +11,6 @@ authors:
     given-names: "Kevin"
     orcid: "https://orcid.org/0000-0002-6502-8106"
     affiliation: "University of Wuppertal"
-  - family-names: "Bartel"
-    given-names: "Andreas"
-    orcid: "https://orcid.org/0000-0003-1979-179X"
-    affiliation: "University of Wuppertal"
-  - family-names: "Günther"
-    given-names: "Michael"
-    affiliation: "University of Wuppertal"
 version: "1.0.0"
 license: MIT
 repository-code: "https://github.com/KevinSchaefers/extended-state-space-ph"
@@ -34,8 +27,13 @@ preferred-citation:
   authors:
     - family-names: "Schäfers"
       given-names: "Kevin"
+      orcid: "https://orcid.org/0000-0002-6502-8106"
+      affiliation: "University of Wuppertal"
     - family-names: "Bartel"
       given-names: "Andreas"
+      orcid: "https://orcid.org/0000-0003-1979-179X"
+      affiliation: "University of Wuppertal"
     - family-names: "Günther"
       given-names: "Michael"
+      affiliation: "University of Wuppertal"
   year: 2026
